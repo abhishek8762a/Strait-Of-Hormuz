@@ -6,6 +6,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen?style=for-the-badge)
+<img width="1082" height="592" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/6a004d96-24cf-4e30-9a1e-d7118135a969" />
 
 *40 years of oil price history. 211 countries. 42 crisis events. One narrow strait that moves it all.*
 
