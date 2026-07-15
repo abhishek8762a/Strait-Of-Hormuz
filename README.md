@@ -18,7 +18,7 @@
 
 One narrow strait carries nearly a fifth of the world's oil supply. When war breaks out anywhere near it, prices don't just move — they swing. I wanted to see exactly how much, backed by real numbers instead of headlines. So I built an interactive Power BI dashboard that connects 40 years of crude oil data with real historical crisis events — and the 2026 Strait of Hormuz crisis turned out to be one of the sharpest price shocks in that entire history.
 
-![Dashboard Preview](dashboard_preview.png)
+
 
 ---
 
@@ -76,7 +76,7 @@ Building the dashboard was the easy part. Making the data trustworthy was not:
 
 ---
 
-![Uploading dashboard_preview.png.png…]()
+
 
 
 ## 🛠️ Methodology
