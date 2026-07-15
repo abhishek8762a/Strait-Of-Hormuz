@@ -75,8 +75,7 @@ Building the dashboard was the easy part. Making the data trustworthy was not:
 
 ---
 
-<img width="1082" height="592" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/84da42fb-3d42-48d1-b022-6031a7ddd69c" />
-<img width="1082" height="592" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/38a03d5a-b049-4c0d-9b2d-325872f67f8a" />
+![Uploading dashboard_preview.png.png…]()
 
 
 ## 🛠️ Methodology
